@@ -39,6 +39,7 @@ python WEATHER.py
 ![Weather App GUI](Screenshot%202025-07-12%20160611.png)
 
 
+
 👩‍💻 Author
 Kallakunta Indhu
 B.Tech - ECE
