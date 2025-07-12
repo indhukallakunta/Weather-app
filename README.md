@@ -30,9 +30,7 @@ It fetches live weather data like temperature, humidity, and sky condition from 
 
 2. Get your API key from [https://openweathermap.org/api](https://openweathermap.org/api)
 
-3. Replace this line in the code:
-```python
-API_KEY = "your_api_key_here"
+3. Replace this line in the code: API_KEY = "your_api_key_here"
 
 4. Run the program
 python WEATHER.py
