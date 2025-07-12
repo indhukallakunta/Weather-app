@@ -36,12 +36,13 @@ It fetches live weather data like temperature, humidity, and sky condition from 
 python WEATHER.py
 
 📸 Screenshot
+
 ![Weather App GUI](Screenshot%202025-07-12%20160611.png)
 
 
 
 👩‍💻 Author
-Kallakunta Indhu
-B.Tech - ECE
-Nalla Narsimha Reddy Group of Institutions
-📧 indhukallakunta@gmail.com
+|Kallakunta Indhu
+|B.Tech - ECE
+|Nalla Narsimha Reddy Group of Institutions
+|📧 indhukallakunta@gmail.com
